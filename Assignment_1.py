@@ -1,7 +1,7 @@
 '''
 Title	 : Assignment-1
 Purpose  : To read a .netlist file given by the user and verify and display the Spice codes in the the netlist file in reverse order
-Author   : Surya Prasad.S(EE19B121) 
+Author   : Surya Prasad S
 Date     : 17th Nov 2021
 Inputs   : '.netlist' file
 Outputs  : Identifies and locates errors if there are any in the Spice codes (starts with .circuit and ends with .end) in the netlist files and displays the codes in reverse order (without the comments)
