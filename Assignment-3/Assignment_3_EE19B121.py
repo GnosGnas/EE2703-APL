@@ -77,13 +77,6 @@ plt.show()
 # Construction of Matrix for the problem
 M = np.c_[sp.jn(2, x), x]
 
-## The matrix is being verified by multiplying it with the true values of A and B
-if np.array_equal(np.dot(M, np.array([A_true, B_true])), g(x, A_true, B_true)):
-	print("Error: Constructed matrix M is incorrect")
-	exit()
-else:
-	print("Matrix M has been constructed and verified")
-
 
 # Prediction of A and B parameters
 ## First we calculate the Mean Squared Error (MSE) for the given set of values
