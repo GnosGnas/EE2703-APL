@@ -9,3 +9,7 @@ Assignment-2 : To accept and verify a netlist file and to calculate the unknown 
 
 Assignment-3 : To analyse a linear function with noise and to provide an estimation of its parameters using Bessel's function
 
+Assignment-4 : To compute the coefficients of the Fourier Series of exp(x) and cos(cos(x)) using Reimann integration and Least Squares approach and comparing their values and plots
+
+
+
