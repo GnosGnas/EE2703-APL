@@ -11,5 +11,5 @@ Assignment-3 : To analyse a linear function with noise and to provide an estimat
 
 Assignment-4 : To compute the coefficients of the Fourier Series of exp(x) and cos(cos(x)) using Reimann integration and Least Squares approach and comparing their values and plots
 
-
+Assignment-5 : To find the flow of currents in a resistor by solving Laplace Equation numerically
 
