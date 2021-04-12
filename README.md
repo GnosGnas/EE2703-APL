@@ -13,3 +13,4 @@ Assignment-4 : To compute the coefficients of the Fourier Series of exp(x) and c
 
 Assignment-5 : To find the flow of currents in a resistor by solving Laplace Equation numerically
 
+Assignment-6 : To simulate a tube light in 1-Dimension
