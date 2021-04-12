@@ -1,5 +1,5 @@
 # EE2703-APL
-## Solutions to assignments of the course EE2703 (Jan-May 2020) in IIT Madras
+## Solutions to assignments of the course EE2703 (Jan-May 2021) in IIT Madras
 
 ## Objectives:
 
