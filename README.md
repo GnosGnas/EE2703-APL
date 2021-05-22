@@ -20,3 +20,5 @@ Assignment-6B : To analyse Linear Time-Invariant Systems using SciPy's signal to
 Assignment-7 : To analyse Active Filters using Sympy and analyse their transfer functions using Scipy's signal toolbox
 
 Assignment-8 : To analyse the Digital Fourier Transform of periodic signals
+
+Assignment-9 : To analyse DFT for non-periodic signals
